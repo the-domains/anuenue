@@ -1,0 +1,28 @@
+name: Anuenue
+favicon: null
+layout_spectrum: 0.7903300626203418
+typography_spectrum: 0.8856563249137253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7144032751675695
+  lightness: 0.5008944275323302
+  saturation: 0.870978452032432
+  rhythmicContrast: 0.4051572885364294
+purpose: []
